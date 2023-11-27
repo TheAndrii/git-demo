@@ -1,2 +1,5 @@
 sword
 wall
+
+form
+shield
