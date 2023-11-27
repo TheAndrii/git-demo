@@ -3,5 +3,3 @@ wall
 
 form
 shield
-baby yod
-__________________
