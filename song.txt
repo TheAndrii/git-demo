@@ -4,10 +4,3 @@ wall
 form
 shield
 baby yod
-__________________
-line
-new line
-
-form
-shield
-baby yod
