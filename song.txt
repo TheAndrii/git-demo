@@ -1,6 +1,7 @@
 sword
 wall
 
-form
-shield
-baby yod
+line
+line
+line
+lein
